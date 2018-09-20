@@ -1,0 +1,41 @@
+h1 {
+text-align: center;
+text-transform: uppercase;
+color:  #ffffff;
+}
+#img1 { 
+  width: 605px;
+    height: 400px;
+}
+header {
+background-color: #a6a6a6;
+}
+h2 {
+text-transform: uppercase;
+color: #000099;
+}
+main {
+background-color: #8c8c8c;
+}
+#img2 {
+width: 605px;
+    height: 400px;
+position: relative;
+left: 5px;
+
+}
+#img3 {
+width: 604px;
+    height: 400px;
+position: relative;
+left: 10px;
+
+}
+nav {
+color:#000000;
+}
+#a1 {
+background-color: #b3b3b3;
+color: black;
+}
+
