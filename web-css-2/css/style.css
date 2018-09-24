@@ -1,0 +1,185 @@
+@font-face {
+  font-family: 'Dayrom';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Dayrom'),
+       url('/fonts/dayrom.svg') format('svg'), 
+       url('/fonts/dayrom.woff') format('woff'),
+       url('/fonts/dayrom.ttf') format('ttf'),
+       url('/fonts/dayrom.eot') format('eot');
+}
+#red_button {
+	position: relative;
+	left: 900px;
+}
+#banner_description {
+	position: relative;
+	bottom: 30px;
+	left: 10px;
+}
+#img1 {
+		border-radius: 8px;
+	position: relative;
+	left: 5px;
+	top: 5px;
+ width: 1315px;
+    height: 320px;
+}
+h2 {
+	position: relative;
+	bottom: 20px;
+}
+header {
+	height: 120px;
+	border-style: solid;
+    border-width: 3px;
+    border-radius: 10PX;
+}
+nav {
+	font-style: 
+	font-size: x-large;
+	text-transform: uppercase;
+	position: relative;
+	left: 940px;
+	bottom: 80px;
+		border-style: solid;
+    border-width: 3px;
+    border-radius: 10PX;
+      box-sizing: border-box;
+      width: 28%;
+}
+article {
+		border-style: solid;
+    border-width: 3px;
+    border-radius: 10PX;
+    box-sizing: border-box;
+    width: 69%;
+    height: 470px;
+    position: relative;
+    top: 10px;
+    left: 3px;
+}
+aside {
+	position: relative;
+	left: 925px;
+	bottom: 460px;
+		border-style: solid;
+    border-width: 3px;
+    border-radius: 10PX;
+     box-sizing: border-box;
+    width: 30%;
+    height: 450px;
+}
+footer {
+	position: relative;
+	bottom: -15px;
+		border-style: solid;
+    border-width: 3px;
+    border-radius: 10PX;
+        box-sizing: border-box;
+    height: 200px;
+}
+section {
+	position: relative;
+	top: 10px;
+			border-style: solid;
+    border-width: 3px;
+    border-radius: 10PX;
+    box-sizing: border-box;
+    height: 490px;
+}
+#banner_image {
+	position: relative;
+	top: 5px;
+		border-style: solid;
+    border-width: 3px;
+    border-radius: 10PX;
+}
+#tweet {
+	border-style: solid;
+    border-width: 3px;
+    border-radius: 10PX;
+ box-sizing: border-box;
+    width: 25%;
+    position: relative;
+    left: 5px;
+    top: 25px;
+    height: 160px;
+}
+#my_pictures {
+		border-style: solid;
+    border-width: 3px;
+    border-radius: 10PX;
+ box-sizing: border-box;
+    width: 22%;
+    position: relative;
+    left: 345px;
+    bottom: 135px;
+    box-sizing: border-box;
+    height: 160px;
+}
+#my_friends {
+	position: relative;
+	left: 645px;
+	bottom: 295px;
+		border-style: solid;
+    border-width: 3px;
+    border-radius: 10PX;
+     box-sizing: border-box;
+    width: 30%;
+    height: 160px;
+}
+#img3 {
+
+}
+#ul1 {
+	position: relative;
+	left: 150px;
+	bottom: 88px; 
+}
+#zozorimg {
+	position: relative;
+	left: 130px;
+}
+#pictures {
+	text-align: center;
+}
+p {
+	position: relative;
+	left: 3px;
+}
+#contact {
+	position: relative;
+	left: 110px;
+}
+#resume {
+	position: relative;
+	left: 80px;
+}
+#blog {
+	position: relative;
+	left: 50px;
+}
+#home {
+	position: relative;
+	left: 20px;
+}
+#pages {
+	position: relative;
+	left: 90px;
+	top: 50px;
+}
+h1 {
+text-transform: uppercase;
+font-style: Ballpark;
+}
+#top {
+	position: relative;
+	bottom: 185px;
+	right: 200px;
+}
+#arrow {
+	position: relative;
+	bottom: 600px;
+	left: 79px;
+}
