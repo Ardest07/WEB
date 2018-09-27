@@ -58,13 +58,13 @@ nav {
 	font-size: x-large;
 	text-transform: uppercase;
 	position: relative;
-	left: 1240px;
+	left: 73%;
 	bottom: 80px;
 		border-style: solid;
     border-width: 3px;
-    border-radius: 10PX;
+    border-radius: 10px;
       box-sizing: border-box;
-      width: 28%;
+      width: 25%;
 }
 article {
 		border-style: solid;
@@ -81,7 +81,7 @@ aside {
 	background-color: #706B64;
 border-color: #706B64;
 	position: relative;
-	left: 1265px;
+	left: 69.6%;
 	bottom: 460px;
 		border-style: solid;
     border-width: 3px;
@@ -135,14 +135,14 @@ height: 500px;
  box-sizing: border-box;
     width: 22%;
     position: relative;
-    left: 465px;
+    left: 25.5%;
     bottom: 155px;
     box-sizing: border-box;
     height: 180px;
 }
 #my_friends {
 	position: relative;
-	left: 870px;
+	left: 47.7%;
 	bottom: 335px;
 		border-style: solid;
     border-width: 3px;
@@ -152,8 +152,7 @@ height: 500px;
     height: 180px;
 }
 #img3 {
-height: 90px;
-width: 90px;
+width: 24%;
 position: relative;
 bottom: 10px;
 }
@@ -164,7 +163,7 @@ bottom: 10px;
 }
 #zozorimg {
 	position: relative;
-	left: 130px;
+	left: 35%;
 }
 #pictures {
 	text-align: center;
@@ -175,23 +174,23 @@ p {
 }
 #contact {
 	position: relative;
-	left: 110px;
+	left: 44%;
 }
 #resume {
 	position: relative;
-	left: 80px;
+	left: 32%;
 }
 #blog {
 	position: relative;
-	left: 50px;
+	left: 19%;
 }
 #home {
 	position: relative;
-	left: 20px;
+	left: 3%;
 }
 #pages {
 	position: relative;
-	left: 90px;
+	left: 30%;
 	top: 50px;
 }
 h1 {
@@ -203,12 +202,11 @@ left: 5px;
 #top {
 	position: relative;
 	bottom: 195px;
-	right: 230px;
+	right: 50%;
 }
 #arrow {
 	position: relative;
-	bottom: 600px;
-	left: 191px;
+right: 75%;
 }
 body {
 background-color: #FFF4D8;
